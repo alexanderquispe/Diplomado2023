@@ -5,3 +5,8 @@ Name of the students,
 1. Mattias Salazar
 2. Luis Quisp
 3. Nuria Toledo
+
+List of artist
+1. Selena Gomez
+2. Corazon Serrano
+3. Grupo 5
