@@ -26,3 +26,6 @@ List of Districts,
 5. SAN ROMAN
 6. CUSCO MAGISTERIO CITY
 
+List Equipos
+1. Cienciano
+2. Universitario
