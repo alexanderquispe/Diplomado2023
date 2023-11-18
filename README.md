@@ -17,3 +17,8 @@ List Schools,
 3. Primer Colegio Nacional de La republica de Nuestra Señora de Guadalupe 
 4. Roosevelt 
 5. Juan Luis Gonzaga
+
+List of districts,
+1. SAN MIGUEL
+2. SAN ROMAN
+3. CUSCO MAGISTERIO CITY
