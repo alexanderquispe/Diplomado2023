@@ -6,6 +6,12 @@ Name of the students,
 2. Luis Quisp
 3. Nuria Toledo
 
+Emails
+1. mattias.salazar@pucp.edu.pe
+2. luis.quispem@pucp.edu.pe
+3. nuria-music@hotmail.com
+
+
 List of artist
 1. Selena Gomez
 2. Corazon Serrano
