@@ -2,9 +2,14 @@
 This is a python course.
 
 Name of the students,
-1. Mattias Salazar
-2. Luis Quisp
+1. Mattias Salazar 
+2. Luis Quispe 
 3. Nuria Toledo
+
+GitHub Usernames
+1. MattiasSalazar
+2. luisquispem
+3. marines-2002
 
 List of artist
 1. Selena Gomez
