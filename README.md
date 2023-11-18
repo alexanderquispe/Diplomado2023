@@ -18,7 +18,11 @@ List Schools,
 4. Roosevelt 
 5. Juan Luis Gonzaga
 
-List of districts,
-1. SAN MIGUEL
-2. SAN ROMAN
-3. CUSCO MAGISTERIO CITY
+List of Districts,
+1. SMP
+2. SJL
+3. TUMBES
+4. SAN MIGUEL
+5. SAN ROMAN
+6. CUSCO MAGISTERIO CITY
+
